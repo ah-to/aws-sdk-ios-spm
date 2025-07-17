@@ -1,3 +1,5 @@
+#FORKED!!
+
 # Swift Package Manager support for AWS SDK for iOS
 
 This repository enables Swift Package Manager support for the AWS Mobile SDK for iOS by vending a Manifest file (`Package.swift`) that links to binary frameworks for the SDKs.
